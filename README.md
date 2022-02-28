@@ -4,7 +4,7 @@ Example Backend Development in Go
 
 ## About
 
-An example of a Microservice API Template using Go and the Gin HTTP Framework.
+An example of a Microservice API Template using Go and the Gin HTTP Framework. This project is still in development and is only a demo.
 
 ## Project Structure
 
